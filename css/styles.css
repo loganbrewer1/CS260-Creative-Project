@@ -1,0 +1,15 @@
+div {
+    display: block;
+}
+
+.masonry { /* Masonry container */
+    column-count: 3;
+    column-gap: 3em;
+}
+  
+.item { /* Masonry bricks or child elements */
+    background-color: white;
+    display: inline-block;
+    margin: 0 0 3em;
+    width: 100%;
+}
