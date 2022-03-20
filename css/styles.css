@@ -13,3 +13,17 @@ div {
     margin: 0 0 3em;
     width: 100%;
 }
+
+.results {
+    display: grid;
+    justify-content: center;
+    margin-top: 60px;
+    gap: 30px 58px;
+    padding-left: 45px;
+    font-size: larger;
+}
+
+.houseImage {
+    padding-left: 25px;
+    padding-right: 25px;
+}
